@@ -1,0 +1,18 @@
+.home-card {
+  width: 50%;
+  min-height: 50vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.home-image {
+  width: 30%;
+}
+
+.home-heading {
+  font-family: 'Roboto';
+  color: #551e53;
+  font-weight: 600;
+}
